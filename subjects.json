@@ -1,0 +1,42 @@
+{
+    "laag": {
+        "name": "📐 Лінійна алгебра та аналітична геометрія",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "mat_anal": {
+        "name": "📈 Математичний аналіз",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "hys_phyl_1": {
+        "name": "📜 Історико-філософські засади (Модуль 1)",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "hys_phyl_2": {
+        "name": "📜 Історико-філософські засади (Модуль 2)",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "algorithms": {
+        "name": "🪾 Алгоритми та структури даних",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "programming": {
+        "name": "💻 Основи програмування",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "discrete": {
+        "name": "🔢 Комп'ютерна дискретна математика",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    },
+    "english": {
+        "name": "🇬🇧 Англійська",
+        "type": "zoom",
+        "link": "https://pranx.com/bouncing-dvd-screensaver/"
+    }
+}

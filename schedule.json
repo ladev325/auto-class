@@ -1,0 +1,31 @@
+{
+  "schedule": [
+    [
+      {"name": "laag", "start_time": "8:30", "end_time": "10:05"},
+      {"name": "mat_anal", "start_time": "10:25", "end_time": "12:20"}
+    ],
+    [
+      {"name": "hys_phyl_2", "start_time": "8:30", "end_time": "10:25"},
+      {"name": "hys_phyl_1", "start_time": "10:25", "end_time": "12:20"},
+      {"name": "mat_anal", "start_time": "12:20", "end_time": "14:15"},
+      {"name": "algorithms", "start_time": "14:15", "end_time": "16:10"}
+    ],
+    [],
+    [
+      {"name": "programming", "start_time": "10:25", "end_time": "12:20"},
+      {"name": "laag", "start_time": "12:20", "end_time": "14:15"},
+      {"name": "discrete", "start_time": "14:15", "end_time": "16:10"}
+    ],
+    [
+      {"name": "discrete", "start_time": "10:25", "end_time": "12:20"},
+      {"name": "english", "start_time": "12:20", "end_time": "14:15"},
+      {"name": "algorithms", "start_time": "14:15", "end_time": "16:10"},
+      {"name": "programming", "start_time": "22:47", "end_time": "22:59"}
+    ],
+    [
+      {"name": "hys_phyl_1", "start_time": "12:20", "end_time": "14:15"},
+      {"name": "english", "start_time": "14:15", "end_time": "16:10"}
+    ],
+    []
+  ]
+}

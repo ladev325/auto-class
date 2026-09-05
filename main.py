@@ -8,10 +8,10 @@ try:
     sc.schedule_daemon()
 
 except KeyboardInterrupt:
-    utils.notify("[AutoLesson] Task was killed (KeyboardInterrupt)", 0, True)
+    utils.notify("[AutoLesson] Task was killed: KeyboardInterrupt", 0, True)
     was_exception = True
-except Exception:
-    utils.notify("[AutoLesson] Crashed (unknown exception)", 0, True)
+except Exception as e:
+    utils.notify(f"[AutoLesson] Crashed: {e}", 0, True)
     was_exception = True
 finally:
     if not was_exception:

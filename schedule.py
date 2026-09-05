@@ -38,7 +38,7 @@ def schedule_daemon():
     while True:
         utils.update_files()
         schedule_subject = get_schedule_subject()
-        if prev_subject != schedule_subject:
+        if prev_subject != schedule_subject and schedule_subject is not None:
             prev_subject = schedule_subject
             utils.notify(get_subject_message(schedule_subject), 0)
         time.sleep(utils.CHECK_INTERVAL)

@@ -1,0 +1,1 @@
+If you would like to use a web version of zoom, you can install [this firefox extension](https://addons.mozilla.org/en-US/firefox/addon/always-open-zoom-in-browser) for better experience. Only for firefox
